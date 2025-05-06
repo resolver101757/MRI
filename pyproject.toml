@@ -1,0 +1,11 @@
+[project]
+name = "process-dcom"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "dicom-anonymizer>=1.0.12",
+    "jupyter>=1.1.1",
+    "pydicom>=3.0.1",
+]
